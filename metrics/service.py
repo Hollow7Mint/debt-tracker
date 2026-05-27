@@ -96,4 +96,4 @@ class DebtService:
             ids.append(rec_id)
         logger.info("bulk_insert payments: %d rows", len(ids))
         return ids
-# Last sync: 2026-05-27 03:52:37 UTC
+# Last sync: 2026-05-27 04:28:46 UTC
